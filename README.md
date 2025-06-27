@@ -1,1 +1,1 @@
-# Laboratirio-03-Operaci-n-An-lisis-y-Comparaci-n-del-Manipulador-Motoman-MH6.
+# Laboratirio-03_Operación-Análisis-y-Comparación-del-Manipulador-Motoman-MH6.
